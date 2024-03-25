@@ -10,4 +10,4 @@ function findTime(str) {
     console.log(matches);
 }
 
-findTime('Breakfast at 09:00 in the room 123:456.')
+findTime("Breakfast at 09:00 in the room 123:456.");
